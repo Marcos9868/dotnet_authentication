@@ -1,4 +1,4 @@
-name: Main Workflow
+name: Develop Workflow
 
 on:
   push:
